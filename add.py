@@ -7,3 +7,4 @@ mul =num1*num2
 print("multiplication is",mul)
 sub =  num1-num3   
 print("sub is:",sub)
+print ("this is simple calculation")
