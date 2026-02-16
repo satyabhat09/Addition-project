@@ -8,3 +8,5 @@ print("multiplication is",mul)
 sub =  num1-num3   
 print("sub is:",sub)
 print ("this is simple calculation")
+print("this is simple calculation")
+print("this is simple calculation")
